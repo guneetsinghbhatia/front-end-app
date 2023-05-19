@@ -1,4 +1,4 @@
-# Luma Front End Engineering Interview
+#  Front End Engineering Interview
 
 ## Interview Task
 
